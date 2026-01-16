@@ -1,25 +1,31 @@
 <div align="center">
 
-# 👋 Galirus Projects
+# 👋 Galirus Projects  
+Developer fokus terminal & sistem Linux
 
-Developer fokus **terminal & sistem Linux**
+<!-- Preview / Click Animation -->
+<a href="https://od.lk/s/OV8yNTU5MTI3NTFf/menu_gif.mp4">
+  <img 
+    src="https://user-images.githubusercontent.com/placeholder/preview.png"
+    alt="Menu Preview"
+    width="600"
+  />
+</a>
+
+<sub>▶ Klik gambar untuk melihat animasi</sub>
 
 </div>
 
 ---
 
 ## 🛠️ Keahlian Bidang
-- ⚙️ **Termux**
-- 🐧 **Debian**
-- bash only
-- 📂 **Mengelola & Modifikasi File Sistem**
-  - edit konfigurasi
-  - optimasi
-  - custom workflow terminal
+- ⚙️ Termux
+- 🐧 Debian
+- 📂 Mengelola & Modifikasi File Sistem
 
 ---
 
-## 🔗 Sosial & Kontak
+## 🔗 Sosial
 
 <div align="center">
 
@@ -32,20 +38,12 @@ Developer fokus **terminal & sistem Linux**
 ---
 
 ## 📧 Email
-- **galirus official**
-
----
-
-## 📌 Catatan
-Fokus pada:
-- Terminal productivity
-- Linux environment
-- Konfigurasi yang **ringan, aman, dan bisa dipakai jangka panjang**
+**galirus official**
 
 ---
 
 <div align="center">
 
-_Keep it simple. Keep it working._
+_Keep it simple · Keep it working_
 
 </div>
