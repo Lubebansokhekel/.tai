@@ -2,8 +2,7 @@
 
 # 👋 Galirus Projects  
 Developer fokus terminal & sistem Linux
-<img src="[https://od.lk/s/OV8yNTU5MTI3NTFf/menu_gif.mp4](https://raw.githubusercontent.com/Lubebansokhekel/Pasang/main/GALIRUS_OFFICIAL_1757461081.gif)" width="600"/>
-
+<img src="https://raw.githubusercontent.com/Lubebansokhekel/Pasang/main/GALIRUS_OFFICIAL_1757461081.gif" width="600"/>
 </div>
 
 ---
