@@ -2,17 +2,7 @@
 
 # 👋 Galirus Projects  
 Developer fokus terminal & sistem Linux
-
-<!-- Preview / Click Animation -->
-<a href="https://od.lk/s/OV8yNTU5MTI3NTFf/menu_gif.mp4">
-  <img 
-    src="https://user-images.githubusercontent.com/placeholder/preview.png"
-    alt="Menu Preview"
-    width="600"
-  />
-</a>
-
-<sub>▶ Klik gambar untuk melihat animasi</sub>
+<img src="https://od.lk/s/OV8yNTU5MTI3NTFf/menu_gif.gif" width="600"/>
 
 </div>
 
