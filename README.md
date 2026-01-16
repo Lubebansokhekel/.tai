@@ -11,6 +11,7 @@ Developer fokus **terminal & sistem Linux**
 ## 🛠️ Keahlian Bidang
 - ⚙️ **Termux**
 - 🐧 **Debian**
+- bash only
 - 📂 **Mengelola & Modifikasi File Sistem**
   - edit konfigurasi
   - optimasi
